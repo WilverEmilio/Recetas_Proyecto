@@ -33,16 +33,7 @@
   </div>
 </template>
 
-<script>
-import Logo from "";
-export default {
-  name: "app",
-  data: () => ({
-    logo: Logo,
-  }),
-  methods: {},
-};
-</script>
+
 <style >
 @media print {
   .oculto-impresion,

@@ -2,8 +2,8 @@
 Es un proyecto de programacion web juntamente con arquitectura de sistemas basado en recetas
 
 1. Ir a la ruta donde se encuentra el Xammp y buscar las carpeta htdocs
-2. Clonar el repositorio de git ![image](https://github.com/WilverEmilio/Recetas_Proyecto/assets/125522983/d7506783-436f-46ff-9577-f6c867682761)
-
+2. Clonar el repositorio de git 
+![image](https://github.com/WilverEmilio/Recetas_Proyecto/assets/125522983/4854460a-a90c-4c0b-8ba0-d17f8731ea4e)
 3. Para que esto funcione correctamente ir a las variables de entorno y mirar si se encuentra php, composter y mysql
 4. Teniendo clonado el git ir a la carpeta de api y en la consola poner composer install
 5. crear la base de datos con el nombre de recetas (el sql esta en api y se llama esquema)

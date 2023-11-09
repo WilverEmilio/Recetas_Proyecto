@@ -11,7 +11,7 @@
           ><b-icon icon="plus" class="mr-1"></b-icon>Nueva receta</b-navbar-item
         >
         <b-navbar-item tag="router-link" :to="{ name: 'Recetas' }"
-          ><b-icon icon="book-open-page-variant"></b-icon>&nbsp;Gestionar
+          ><b-icon icon="book-open-page-variant"></b-icon>&nbsp;Gestionar recetas
           recetas</b-navbar-item
         >
         <b-navbar-item tag="router-link" :to="{ name: 'AcercaDe' }"
@@ -33,16 +33,7 @@
   </div>
 </template>
 
-<script>
-import Logo from "";
-export default {
-  name: "app",
-  data: () => ({
-    logo: Logo,
-  }),
-  methods: {},
-};
-</script>
+
 <style >
 @media print {
   .oculto-impresion,

@@ -2,9 +2,6 @@
   <div>
     <b-navbar class="oculto-impresion" style="border: 2px solid #ffe08a">
       <template #brand>
-        <b-navbar-item tag="a" target="_blank" :href="logo">
-          <img :src="logo" style="min-height: 85px" />
-        </b-navbar-item>
       </template>
       <template #start>
         <b-navbar-item tag="router-link" :to="{ name: 'Recetario' }"
@@ -23,12 +20,6 @@
       </template>
       <template #end>
         <b-navbar-item tag="div">
-          <div class="buttons">
-            <a href="https://parzibyte.me/#contacto" class="button is-danger">
-              <b-icon icon="help"></b-icon>
-              <strong>Ayuda y soporte</strong>
-            </a>
-          </div>
         </b-navbar-item>
       </template>
     </b-navbar>
@@ -37,18 +28,13 @@
     </section>
     <footer class="footer oculto-impresion">
       <div class="content has-text-centered">
-        <p>
-          <strong>Gestión de recetas - Software de recetario </strong>creado y
-          mantenido con <b-icon icon="heart" type="is-danger"></b-icon> por
-          <a href="https://parzibyte.me/blog">Parzibyte</a>
-        </p>
       </div>
     </footer>
   </div>
 </template>
 
 <script>
-import Logo from "./assets/parzibyte.png";
+import Logo from "";
 export default {
   name: "app",
   data: () => ({

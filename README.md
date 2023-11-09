@@ -5,8 +5,9 @@ Es un proyecto de programacion web juntamente con arquitectura de sistemas basad
 2. Clonar el repositorio de git
 ![image](https://github.com/WilverEmilio/Recetas_Proyecto/assets/125522983/1f6f455e-b9e7-4040-9f02-acc63e4f91b3)
 3. Para que esto funcione correctamente ir a las variables de entorno y mirar si se encuentra php, composter y mysql
-4. Teniendo clonado el git ir a la carpeta de api y en la consola poner composer install
-5. crear la base de datos con el nombre de recetas (el sql esta en api y se llama esquema)
-6. adentro de la carpeta api crear un nuevo archivo llamado env.php y guiarse del ejemplo si ya esta no tocar nada y verificar si todo esta bien
-7. en la carpeta principal de recetas intalar el npm install
-8. ya poder utilizar el sistema npm run serve
+![image](https://github.com/WilverEmilio/Recetas_Proyecto/assets/125522983/3388b615-2d13-4d28-b890-ade22b208f01)
+5. Teniendo clonado el git ir a la carpeta de api y en la consola poner composer install
+6. crear la base de datos con el nombre de recetas (el sql esta en api y se llama esquema)
+7. adentro de la carpeta api crear un nuevo archivo llamado env.php y guiarse del ejemplo si ya esta no tocar nada y verificar si todo esta bien
+8. en la carpeta principal de recetas intalar el npm install
+9. ya poder utilizar el sistema npm run serve

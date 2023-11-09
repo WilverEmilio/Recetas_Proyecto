@@ -2,8 +2,7 @@
 Es un proyecto de programacion web juntamente con arquitectura de sistemas basado en recetas
 
 1. Ir a la ruta donde se encuentra el Xammp y buscar las carpeta htdocs
-2. Clonar el repositorio de git
-![image](https://github.com/WilverEmilio/Recetas_Proyecto/assets/125522983/1f6f455e-b9e7-4040-9f02-acc63e4f91b3)
+2. Clonar el repositorio de git ![image](https://github.com/WilverEmilio/Recetas_Proyecto/assets/125522983/1f6f455e-b9e7-4040-9f02-acc63e4f91b3)
 3. Para que esto funcione correctamente ir a las variables de entorno y mirar si se encuentra php, composter y mysql ![image](https://github.com/WilverEmilio/Recetas_Proyecto/assets/125522983/2ab06d1b-8dac-4013-a55a-8a87d7376876)
 
 5. Teniendo clonado el git ir a la carpeta de api y en la consola poner composer install

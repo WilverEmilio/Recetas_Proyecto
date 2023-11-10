@@ -1,5 +1,5 @@
 {
-    "name": "parzibyte/recetas",
+    "name": "recetas/recetas",
     "description": "Software para crear y compartir recetas de cocina",
     "type": "project",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Parzibyte\\": "Parzibyte/"
+            "Recetas\\": "Recetas/"
         }
     },
     "require": {}

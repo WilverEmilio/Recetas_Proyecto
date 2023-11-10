@@ -2,9 +2,9 @@
 ?>
 <?php
 
-namespace Recetas;
+namespace Parzibyte;
 
-use Recetas\BD;
+use Parzibyte\BD;
 
 
 class Recetas

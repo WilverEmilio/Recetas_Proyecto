@@ -55,13 +55,12 @@ export default {
         "src/assets/fonts/flaticon.css",
         "src/assets/css/owl.carousel.min.css",
         "src/assets/css/owl.theme.default.min.css",
-        "src/assets/style.css",
+        "style.css",
       ],
     };
   },
-}
+};
 </script>
-
 <style >
 @media print {
   .oculto-impresion,

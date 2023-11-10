@@ -2,7 +2,7 @@
 ?>
 <?php
 
-namespace Recetas;
+namespace Parzibyte;
 
 class FotosRecetas
 {

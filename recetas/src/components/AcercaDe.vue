@@ -8,6 +8,13 @@
             ¡Contáctanos!
           </p>
           <p class="subtitle">
+            Utiliza un enfoque basado en la personalización y la eficiencia. 
+            Esta plataforma utiliza algoritmos y bases de datos para organizar y 
+            clasificar las recetas de cocina, lo que permite a los usuarios realizar 
+            búsquedas específicas y encontrar rápidamente las recetas que se ajusten a 
+            sus preferencias 
+          </p>
+          <p class="subtitle">
             <a class="has-text-warning" href="#"
               >Wilver Emilio Xia Ixcot - 202108052</a
             >

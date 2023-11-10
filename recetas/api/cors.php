@@ -1,8 +1,6 @@
 <?php
 ?>
 <?php
-# Nota: establece esta variable en true cuando vayas a pasar a producción, tanto por seguridad
-# como porque el sistema fallará si no lo haces, ya que no habrá HTTP_ORIGIN
 include_once "vendor/autoload.php";
 $produccion = false;
 if (!$produccion) {

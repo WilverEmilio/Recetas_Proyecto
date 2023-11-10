@@ -7,29 +7,25 @@
             Software para recetario online creado con PHP y Vue
           </p>
           <p class="subtitle">
-            Creado por
-            <a class="has-text-warning" href="https://parzibyte.me/blog"
-              >Parzibyte</a
+            <a class="has-text-warning" href="#"
+              >Wilver Emilio Xia Ixcot - 202108052</a
             >
           </p>
-          <p>
-            Si necesitas ayuda con este u otro programa puedes contratarme en
-            <a class="has-text-warning" href="https://parzibyte.me/#contacto"
-              >mi sitio web</a
+          <p class="subtitle">
+            <a class="has-text-warning" href="#"
+              >Hanz Maverick Godínez Ruíz - 202108064</a
             >
           </p>
-          <br />
-          <p>
-            No olvides pasarte por mi blog para enterarte de las novedades:
-            <a class="has-text-warning" href="https://parzibyte.me/blog"
-              >https://parzibyte.me/blog</a
+          <p class="subtitle">
+            <a class="has-text-warning" href="#"
+              >Carlos Nestor  - 202108064</a
             >
           </p>
-          <strong
-            >Por cierto, este software no puede ser vendido. Puedes modificarlo
-            y usarlo para lo que prefieras, pero si quieres venderlo u obtener
-            ganancias de algún modo debes contar con mi autorización</strong
-          >
+          <p class="subtitle">
+            <a class="has-text-warning" href="#"
+              >Alexander Manuel Navar Vicente  - 202108068</a
+            >
+          </p>
         </div>
       </section>
       <h1></h1>

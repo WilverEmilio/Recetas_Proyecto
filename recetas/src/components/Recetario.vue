@@ -61,5 +61,5 @@ export default {
       this.cargando = false;
     },
   },
-};
+}
 </script>

@@ -2,7 +2,7 @@
 ?>
 <?php
 
-namespace Parzibyte;
+namespace Receta;
 
 use Exception;
 

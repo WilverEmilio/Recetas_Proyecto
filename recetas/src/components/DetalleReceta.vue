@@ -60,12 +60,6 @@
         <div class="columns" v-show="imprimiendo">
           <div class="column">
             <div class="content has-text-centered">
-              <p>
-                <strong>Gestión de recetas - Software de recetario </strong
-                >creado y mantenido con
-                <b-icon icon="heart" type="is-danger"></b-icon> por
-                <a href="https://parzibyte.me/blog">Parzibyte</a>
-              </p>
             </div>
           </div>
         </div>

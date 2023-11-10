@@ -1,28 +1,6 @@
 <template>
   <div>
-    <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Whack | RECETAS</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="img/favicon.png">
-    <!-- Bootstrap Css -->
-    <link rel="stylesheet" href="recetas/src/assets/css/bootstrap.min.css">
-    <!-- Animate CSS -->
-    <link rel="stylesheet" :href="animateCss">
-    <!-- Fontawesome CSS -->
-    <link rel="stylesheet" :href="fontawesomeCss">
-    <!-- Flaticon CSS -->
-    <link rel="stylesheet" :href="flaticonCss">
-    <!-- Owl Carousel CSS -->
-    <link rel="stylesheet" :href="owlCarouselCss">
-    <link rel="stylesheet" :href="owlThemeCss">
-    <!-- Custom Css -->
-    <link rel="stylesheet" href="style.css">
-  </head>
-    <b-navbar class="oculto-impresion" style="border: 2px solid #ffe08a">
+    <b-navbar class="oculto-impresion" style=" background: linear-gradient(to right, #EA7E5E, #eba691);">
       <template #brand>
         <b-navbar-item tag="a" target="_blank" :href="logo">
           <img :src="logo" style="min-height: 85px" />
@@ -51,13 +29,15 @@
     <section class="section sin-espacios-al-imprimir">
       <router-view></router-view>
     </section>
-    <footer class="footer oculto-impresion">
+    <footer class="footer oculto-impresion" style="background-color: #f0f0f0; padding: 20px;">
       <div class="content has-text-centered">
+        <div class="copyright">© Todos los derechos reservados 2023</div>
       </div>
     </footer>
   </div>
 </template>
 
+<script src="js/bootstrap.min.js"></script>
 <script>
 import Logo from "./assets/img/Whack-Dark.png";
 export default {
@@ -69,7 +49,8 @@ export default {
 };
 </script>
 
-<style >
+<style scoped>
+/* Estilos específicos del componente */
 @media print {
   .oculto-impresion,
   .oculto-impresion * {
@@ -79,6 +60,5 @@ export default {
     margin: 5px !important;
     padding: 7px !important;
   }
-
 }
 </style>

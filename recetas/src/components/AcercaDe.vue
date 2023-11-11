@@ -7,32 +7,22 @@
             WHACK, Recetario online.
             ¡Contáctanos!
           </p>
-          <p class="subtitle">
-            Utiliza un enfoque basado en la personalización y la eficiencia. 
-            Esta plataforma utiliza algoritmos y bases de datos para organizar y 
-            clasificar las recetas de cocina, lo que permite a los usuarios realizar 
-            búsquedas específicas y encontrar rápidamente las recetas que se ajusten a 
-            sus preferencias 
+          <p class="title">
+            De todos y para todos.
           </p>
           <p class="subtitle">
-            <a class="has-text-warning" href="#"
-              >Wilver Emilio Xia Ixcot - 202108052</a
-            >
+          ㅤ
           </p>
           <p class="subtitle">
-            <a class="has-text-warning" href="#"
-              >Hanz Maverick Godínez Ruíz - 202108064</a
-            >
+            Utiliza un enfoque basado en la personalización y la eficiencia.
+            Esta plataforma utiliza algoritmos y bases de datos para organizar y
+            clasificar las recetas de cocina, lo que permite a los usuarios realizar
+            búsquedas específicas y encontrar rápidamente las recetas que se ajusten a
+            sus preferencias
           </p>
           <p class="subtitle">
-            <a class="has-text-warning" href="#"
-              >Carlos Nestor  - 202108064</a
-            >
-          </p>
-          <p class="subtitle">
-            <a class="has-text-warning" href="#"
-              >Alexander Manuel Navar Vicente  - 202108068</a
-            >
+              © Wilver Emilio Xia Ixcot - 202108052, Hanz Maverick Godínez Ruíz - 202108064, Carlos Néstor Daniel Cano Velásquez - 202108031, Alexander Manuel Navar Vicente  - 202108068
+
           </p>
         </div>
         <div class="contact-box-right">
@@ -44,6 +34,7 @@
       <h1></h1>
     </div>
   </div>
+
 </template>
 <style>
 
